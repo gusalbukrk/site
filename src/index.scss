@@ -1,0 +1,16 @@
+$space: 1rem;
+
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  gap: 1rem;
+  padding: $space;
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  max-width: 100%;
+}
