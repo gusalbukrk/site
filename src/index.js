@@ -6,8 +6,6 @@ import './index.scss';
 
 import { Header, Subheader } from './components/Header';
 
-console.log('from index');
-
 function App() {
   return (
     <>
